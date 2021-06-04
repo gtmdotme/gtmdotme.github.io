@@ -83,7 +83,7 @@ author:
   name             : "Gautam Choudhary"
   avatar           : "passport-photo-square.png"
   bio              : "Currently at Adobe Research, Earlier at IIT Roorkee"
-  location         : "Bangalore, India"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2hphG0MAAAAJ"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "gtm-me/"
+  linkedin         : "gtmdotme"
   orcid            : 
   pinterest        :
   soundcloud       :

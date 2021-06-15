@@ -53,6 +53,10 @@ Computational Linguistics and Intelligent Text Processing</span></sub> \
 Patents
 ------
 
+* **Artificial Intelligence Approaches For Predicting Conversion Activity Probability Scores And Key Personas For Target Entities** \
+  <sub><span style="color:#868686e8">Filed to USPTO in Jun, 2021</span></sub> \
+  <sub>Inventors --- *Liana Vagharshakian, Atanu R. Sinha, Camille Girabawe, **Gautam Choudhary**, Omar Rahman, Scott Trafton, Vivek Sinha* </sub>
+
 * **Determining Digital Personas Utilizing Data-Driven Analytics** \
   <sub><span style="color:#868686e8">Filed to USPTO in February, 2021</span></sub> \
   <sub>Inventors --- ***Gautam Choudhary**, Iftikhar Ahamath Burhanuddin* </sub>

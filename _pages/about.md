@@ -21,6 +21,7 @@ I am an avid traveller and love clicking photographs. Feel free to drop by at my
 News
 ------
 
+* [ <span style="font-family:'Lucida Console', monospace">Aug, 2021</span> ] Our work on *Actionable Review Comments* got accepted as full paper at WISE 2021.
 * [ <span style="font-family:'Lucida Console', monospace">Apr, 2021</span> ] Our project *Account Ace* on B2B marketing premiered at [Adobe Summit Sneaks 2021](https://research.adobe.com/news/adobe-research-previews-innovative-technologies-at-summit-2021/).
 * [ <span style="font-family:'Lucida Console', monospace">Nov, 2019</span> ] Our paper based out of B.Tech. Project got accepted at DATE 2020.
 * [ <span style="font-family:'Lucida Console', monospace">Oct, 2019</span> ] Our B.Tech. Project awarded as Best Department Project.

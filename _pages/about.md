@@ -40,11 +40,11 @@ Machine Learning and Data Mining
 Publications
 ------
 
-* **Transport-free module binding for sample preparation using microfluidic fully programmable valve arrays** (DATE 2020) [[LINK](https://ieeexplore.ieee.org/abstract/document/9116370)] \
+* **Transport-Free Module Binding For Sample Preparation Using Microfluidic Fully Programmable Valve Arrays** [[DATE 2020](https://past.date-conference.com/proceedings-archive/2020/)] [[paper](https://ieeexplore.ieee.org/abstract/document/9116370)] \
   <sub><span style="color:#868686e8">Design, Automation & Test in Europe Conference & Exhibition</span></sub> \
   <sub>Authors --- ***Gautam Choudhary**, Sandeep Pal, Debraj Kundu, Sukanta Bhattacharjee, Shigeru Yamashita, Bing Li, Ulf Schlichtmann, Sudip Roy* </sub>
 
-* **Understanding blogs through the lens of readers’ comments** (CICLing 2019) [[PDF](https://gtmdotme.github.io/files/paper-cicling2020.pdf)] \
+* **Understanding Blogs Through The Lens Of Readers’ Comments** [[CICLing 2019](https://www.cicling.org/2019/)] [[paper](https://gtmdotme.github.io/files/paper-cicling2020.pdf)] \
   <sub><span style="color:#868686e8">International Conference on
 Computational Linguistics and Intelligent Text Processing</span></sub> \
   <sub>Authors --- *Abhilasha Sancheti, Natwar Modani, **Gautam Choudhary**, Chintha Priyadarshini, Sai Sandeep Mparthi Moparthi* </sub>

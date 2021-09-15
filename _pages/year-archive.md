@@ -25,9 +25,9 @@ redirect_from:
   }
 
   div.gallery li {
-    height: 20vh;
+    height: 30vh;
     flex-grow: 1;
-    margin: 0.8vmin;
+    margin: 1vmin;
     list-style: none;
   }
 
@@ -40,7 +40,7 @@ redirect_from:
     min-width: 100%;
     object-fit: cover;
     vertical-align: bottom;
-    border-radius: 0.4vmin;
+    border-radius: 0.1vmin;
   }
 
   @media (max-aspect-ratio: 1/1) {
@@ -60,7 +60,7 @@ redirect_from:
 
     li {
       height: auto;
-      width: 100%;
+      width: auto;
     }
 
     img {

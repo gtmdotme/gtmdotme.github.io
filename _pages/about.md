@@ -10,11 +10,11 @@ redirect_from:
 
 > "Explore. Dream. Discover."― Mark Twain
 
-I am currently working as a Research Associate at Adobe Research. I graduated from Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Prior joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. I, along with my team, explored an interdisciplinary domain of MicroFluidics and had developed a novel algorithm for resource allocation as part of B.Tech. Project Thesis.
+I am currently working as a Research Associate at Adobe Research. I graduated from Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Prior to joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. I, along with my team, explored an interdisciplinary domain of MicroFluidics and had developed a novel algorithm for resource allocation as part of B.Tech. Project Thesis.
 
-Currently I'm working at the intersection of modelling user behavior, data mining and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journey in the domain of marketing science. Nevertheless, I am also exploring graphical networks domain out of sheer curiosity.
+Currently, I’m working at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. Nevertheless, I am also exploring the domain of graphical networks out of sheer curiosity.
 
-I am an avid traveller and love clicking photographs. Feel free to drop by at my gallery!
+I am an avid traveler and love clicking photographs. Feel free to drop by at my [gallery](./photo-gallery)!
 
 <!-- monospace in html, ref: https://www.w3schools.com/tags/tag_tt.asp -->
 

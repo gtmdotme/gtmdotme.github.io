@@ -113,3 +113,5 @@ redirect_from:
   document.getElementById("gallery-div").innerHTML = str;
 
 </script>
+
+Hey there! Thank you for taking your time to view these photographs. Should you have any feedback, please drop me a note at `gc.iitr@gmail.com`

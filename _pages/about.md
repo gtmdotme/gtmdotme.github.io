@@ -10,9 +10,9 @@ redirect_from:
 
 > "Explore. Dream. Discover."― Mark Twain
 
-I am currently working as a Research Associate at Adobe Research. I graduated from Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Prior to joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. I, along with my team, explored an interdisciplinary domain of MicroFluidics and had developed a novel algorithm for resource allocation as part of B.Tech. Project Thesis.
+I am currently working as a Research Associate at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Prior to joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. I, along with my team, explored an interdisciplinary domain of MicroFluidics and had developed a novel algorithm for resource allocation as part of B.Tech. Project Thesis.
 
-Currently, I’m working at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. Nevertheless, I am also exploring the domain of graphical networks out of sheer curiosity.
+Currently, I’m working at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. I am also exploring the domain of graph-based neural networks for modeling user behavior.
 
 I am an avid traveler and love clicking photographs. Feel free to drop by at my [gallery](./photo-gallery)!
 
@@ -33,12 +33,16 @@ News
 
 Research Interests
 ------
-Machine Learning and Data Mining
+Artificial Intelligence and Machine Learning, Data Mining, User Modeling and Personalisation and Graph Based Learning.
 
 
 
 Publications
 ------
+
+* **_ReAct_: A _Re_view Comment Dataset for _Act_ionability (and more)** [[WISE 2021](./)] \
+  <sub><span style="color:#868686e8">International Conference on Web Information Systems Engineering</span></sub> \
+  <sub>Authors --- ***Gautam Choudhary**, Natwar Modani, Nitish Maurya* </sub>
 
 * **Transport-Free Module Binding For Sample Preparation Using Microfluidic Fully Programmable Valve Arrays** [[DATE 2020](https://past.date-conference.com/proceedings-archive/2020/)] [[paper](https://ieeexplore.ieee.org/abstract/document/9116370)] \
   <sub><span style="color:#868686e8">Design, Automation & Test in Europe Conference & Exhibition</span></sub> \
@@ -80,7 +84,7 @@ Reviewer
 
 Extra Curriculars
 ------
-* Adobe Create Change Day \| Help shelter home children explore the world virtually (Took a bunch of kids on a virtual tour to Statue of Unity, Gujarat)
-* Adobe Create Change Day \| Mapathon - Support the local governance of Zambia
-* Volunteer with Karunashraya \| Raise fund for cancer patients (Helping the NGO with they day-to-day activities)
-* Volunteering for 'concept painting’ at a nearby government school
+* Adobe Create Change Day \| Help Shelter Home Children Explore the World, Virtual Tour (2021)
+* Adobe Create Change Day \| Mapathon - Support the Local Governance of Zambia (2021)
+* Adobe Create Change Day \| Volunteer with Karunashraya - Raise Fund for Cancer Patients (2020)
+* Adobe Create Change Day \| Volunteering for ‘Concept Painting’ at a Nearby Government School (2019)

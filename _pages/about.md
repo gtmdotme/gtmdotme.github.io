@@ -40,15 +40,15 @@ Artificial Intelligence and Machine Learning, Data Mining, User Modeling and Per
 Publications
 ------
 
-📙 **<i>ReAct</i>: A <i>Re</i>view Comment Dataset for <i>Act</i>ionability (and more)** [[Data](https://github.com/gtmdotme/ReAct)] \
+📙 **<i>ReAct</i>: A <i>Re</i>view Comment Dataset for <i>Act</i>ionability (and more)** [<i class="fas fa-file"></i>](./files/paper-wise2021-acr.pdf) Paper, [<i class="fas fa-database"></i>](https://github.com/gtmdotme/ReAct) Data \
   <sub><span style="color:#868686e8">International Conference on Web Information Systems Engineering ([WISE 2021](http://wise-conferences.org/2021/program.html))</span></sub> \
   <sub>Authors --- ***Gautam Choudhary**, Natwar Modani, Nitish Maurya* </sub>
   
-📙 **Transport-Free Module Binding For Sample Preparation Using Microfluidic Fully Programmable Valve Arrays** [[PDF](https://ieeexplore.ieee.org/abstract/document/9116370)] \
+📙 **Transport-Free Module Binding For Sample Preparation Using Microfluidic Fully Programmable Valve Arrays** [<i class="fas fa-file"></i>](./files/paper-date2020.pdf) Paper, [<i class="fas fa-book"></i>](https://ieeexplore.ieee.org/abstract/document/9116370) Proceedings \
   <sub><span style="color:#868686e8">Design, Automation & Test in Europe Conference & Exhibition ([DATE 2020](https://past.date-conference.com/proceedings-archive/2020/))</span></sub> \
   <sub>Authors --- ***Gautam Choudhary**, Sandeep Pal, Debraj Kundu, Sukanta Bhattacharjee, Shigeru Yamashita, Bing Li, Ulf Schlichtmann, Sudip Roy* </sub>
   
-📙 **Understanding Blogs Through The Lens Of Readers’ Comments** [[PDF](https://gtmdotme.github.io/files/paper-cicling2020.pdf)] \
+📙 **Understanding Blogs Through The Lens Of Readers’ Comments** [<i class="fas fa-file"></i>](./files/paper-cicling2019.pdf) Paper, [<i class="fas fa-book"></i>](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3237) Proceedings \
   <sub><span style="color:#868686e8">International Conference on
 Computational Linguistics and Intelligent Text Processing ([CICLing 2019](https://www.cicling.org/2019/))</span></sub> \
   <sub>Authors --- *Abhilasha Sancheti, Natwar Modani, **Gautam Choudhary**, Chintha Priyadarshini, Sai Sandeep Mparthi Moparthi* </sub>

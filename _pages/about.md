@@ -68,7 +68,7 @@ Patents
   
 📘 **Machine-Learning Systems For Simulating Collaborative Behavior By Interacting Users Within A Group** \
   <sub><span style="color:#868686e8">Filed to USPTO in February, 2021</span></sub> \
-  <sub>Inventors --- *Atanu Sinha, **Gautam Choudhary**, Mansi Agarwal, Shivansh Bindal, Abhishek Pande, Camille Girabawe* </sub>
+  <sub>Inventors --- *Atanu R. Sinha, **Gautam Choudhary**, Mansi Agarwal, Shivansh Bindal, Abhishek Pande, Camille Girabawe* </sub>
   
 📘 **Expressive Text-To-Speech Utilizing Contextual Word-Level Style Tokens** \
   <sub><span style="color:#868686e8">Filed to USPTO in July, 2020</span></sub> \

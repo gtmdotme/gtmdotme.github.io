@@ -21,6 +21,7 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
   
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] Got promoted to Research Associate 2 at Adobe Research 🎉.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Apr'21</span> ] Our project [*#AccountAce*](https://twitter.com/Adobe/status/1387445632881680385) on B2B marketing premiered at [Adobe Summit 2021](https://research.adobe.com/news/adobe-research-previews-innovative-technologies-at-summit-2021/).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Nov'19</span> ] Our paper based out of B.Tech. Project got accepted at DATE 2020.  

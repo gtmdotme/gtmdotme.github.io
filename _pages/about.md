@@ -59,6 +59,10 @@ Computational Linguistics and Intelligent Text Processing ([CICLing 2019](https:
 Patents
 ------
 
+📘 **Identifying Bot Activity Using Topology-Aware Techniques** \
+  <sub><span style="color:#868686e8">Filed to USPTO in Mar, 2022</span></sub> \
+  <sub>Inventors --- ***Gautam Choudhary**, Sk Izajur Rahaman, Siba Panigrahi, Prithvi Bhutani, Manoj Kilaru, Kanishk Singh, Iftikhar Ahamath Burhanuddin, Aditi Singhania* </sub>
+  
 📘 **Artificial Intelligence Approaches For Predicting Conversion Activity Probability Scores And Key Personas For Target Entities** \
   <sub><span style="color:#868686e8">Filed to USPTO in Jun, 2021</span></sub> \
   <sub>Inventors --- *Liana Vagharshakian, Atanu R. Sinha, **Gautam Choudhary**, Camille Girabawe, Omar Rahman, Scott Trafton, Vivek Sinha* </sub>

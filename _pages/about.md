@@ -20,7 +20,8 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 
 News
 ------
-  
+
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022 (coming soon!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] 🎉 Got promoted to Research Associate 2 at Adobe Research.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Apr'21</span> ] 🎥 Our project [*#AccountAce*](https://twitter.com/Adobe/status/1387445632881680385) on B2B marketing premiered at [Adobe Summit 2021](https://research.adobe.com/news/adobe-research-previews-innovative-technologies-at-summit-2021/).  
@@ -59,6 +60,10 @@ Computational Linguistics and Intelligent Text Processing ([CICLing 2019](https:
 Patents
 ------
 
+📘 **Generating Node Embeddings for Multiple Roles** \
+  <sub><span style="color:#868686e8">Filed to USPTO in Jun, 2022</span></sub> \
+  <sub>Inventors --- *Ryan Rossi, Iftikhar Ahamath Burhanuddin, **Gautam Choudhary**, Fan Du, Eunyee Koh* </sub>
+  
 📘 **Identifying Bot Activity Using Topology-Aware Techniques** \
   <sub><span style="color:#868686e8">Filed to USPTO in Mar, 2022</span></sub> \
   <sub>Inventors --- ***Gautam Choudhary**, Sk Izajur Rahaman, Siba Panigrahi, Prithvi Bhutani, Manoj Kilaru, Kanishk Singh, Iftikhar Ahamath Burhanuddin, Aditi Singhania* </sub>

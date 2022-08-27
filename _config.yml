@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gautam Choudhary"
 title_separator          : "-"
 name                     : &name "Gautam Choudhary"
-description              : &description "Research Associate at Adobe Research"
+description              : &description "MSCS, Purdue University"
 url                      : https://gtmdotme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gtmdotme.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gautam Choudhary"
   avatar           : "passport-photo-square.png"
-  bio              : "Currently at Adobe Research, Earlier at IIT Roorkee"
+  bio              : "Currently at Purdue University, Earlier at Adobe Research, IIT Roorkee"
   location         : 
   employer         :
   pubmed           : 

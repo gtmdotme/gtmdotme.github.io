@@ -21,7 +21,7 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
 
-[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022 (coming soon!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] 🎉 Got promoted to Research Associate 2 at Adobe Research.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  

@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 > "Explore.<span style="font-style: normal">🏔</span> Dream.<span style="font-style: normal">💭</span> Discover.<span style="font-style: normal">💡</span>" ― Mark Twain
+
 I am a Master's student at Purdue University, with majors in Computer Science. Prior to that, I worked as a Research Associate 2 at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Before joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. Later in my undergraduate thesis, I, along with my team, explored an interdisciplinary domain of MicroFluidics and developed a novel algorithm for resource allocation.
 
 My research interests are at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. I am also exploring the domain of graph-based neural networks for modeling user behavior.

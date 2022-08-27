@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 > "Explore.<span style="font-style: normal">🏔</span> Dream.<span style="font-style: normal">💭</span> Discover.<span style="font-style: normal">💡</span>" ― Mark Twain
+I am a Master's student at Purdue University, with majors in Computer Science. Prior to that, I worked as a Research Associate 2 at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Before joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. Later in my undergraduate thesis, I, along with my team, explored an interdisciplinary domain of MicroFluidics and developed a novel algorithm for resource allocation.
 
-I am currently working as a Research Associate 2 at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Prior to joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. Later in my undergraduate thesis, I, along with my team, explored an interdisciplinary domain of MicroFluidics and developed a novel algorithm for resource allocation.
-
-Currently, I’m working at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. I am also exploring the domain of graph-based neural networks for modeling user behavior.
+My research interests are at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. I am also exploring the domain of graph-based neural networks for modeling user behavior.
 
 I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop by at my [gallery](./photo-gallery)!
 
@@ -21,6 +20,7 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
 
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022 (coming soon!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] 🎉 Got promoted to Research Associate 2 at Adobe Research.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  

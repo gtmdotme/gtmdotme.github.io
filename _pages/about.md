@@ -22,7 +22,7 @@ News
 ------
 
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).  
-[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022 (coming soon!).  
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] 🎉 Got promoted to Research Associate 2 at Adobe Research.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Apr'21</span> ] 🎥 Our project [*#AccountAce*](https://twitter.com/Adobe/status/1387445632881680385) on B2B marketing premiered at [Adobe Summit 2021](https://research.adobe.com/news/adobe-research-previews-innovative-technologies-at-summit-2021/).  
@@ -43,6 +43,10 @@ Artificial Intelligence and Machine Learning, Data Mining, User Modeling and Per
 Publications
 ------
 
+📙 **B2B Advertising: Joint Dynamic Scoring of Account and Users** [<i class="fas fa-file"></i>](http://papers.adkdd.org/2022/papers/adkdd22-sinha-b2b.pdf) Paper, [<i class="fas fa-video"></i>](https://youtu.be/eQubyYIZg70) Video \
+  <sub><span style="color:#868686e8">Workshop at KDD 2022 ([AdKDD 2022](https://www.adkdd.org/2022-papers-and-talks))</span></sub> \
+  <sub>Authors --- *Atanu R. Sinha, **Gautam Choudhary**, Mansi Agarwal, Shivansh Bindal, Abhishek Pande and Camille Girabawe* </sub>
+  
 📙 **<i>ReAct</i>: A <i>Re</i>view Comment Dataset for <i>Act</i>ionability (and more)** [<i class="fas fa-file"></i>](./files/paper-wise2021-acr.pdf) Paper, [<i class="fas fa-database"></i>](https://github.com/gtmdotme/ReAct) Data \
   <sub><span style="color:#868686e8">International Conference on Web Information Systems Engineering ([WISE 2021](http://wise-conferences.org/2021/program.html))</span></sub> \
   <sub>Authors --- ***Gautam Choudhary**, Natwar Modani, Nitish Maurya* </sub>

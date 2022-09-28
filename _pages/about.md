@@ -44,7 +44,7 @@ Publications
 ------
 
 📙 **B2B Advertising: Joint Dynamic Scoring of Account and Users** [<i class="fas fa-file"></i>](http://papers.adkdd.org/2022/papers/adkdd22-sinha-b2b.pdf) Paper, [<i class="fas fa-video"></i>](https://youtu.be/eQubyYIZg70) Video \
-  <sub><span style="color:#868686e8">Workshop at KDD 2022 ([AdKDD 2022](https://www.adkdd.org/2022-papers-and-talks))</span></sub> \
+  <sub><span style="color:#868686e8">KDD Workshop ([AdKDD 2022](https://www.adkdd.org/2022-papers-and-talks))</span></sub> \
   <sub>Authors --- *Atanu R. Sinha, **Gautam Choudhary**, Mansi Agarwal, Shivansh Bindal, Abhishek Pande and Camille Girabawe* </sub>
   
 📙 **<i>ReAct</i>: A <i>Re</i>view Comment Dataset for <i>Act</i>ionability (and more)** [<i class="fas fa-file"></i>](./files/paper-wise2021-acr.pdf) Paper, [<i class="fas fa-database"></i>](https://github.com/gtmdotme/ReAct) Data \

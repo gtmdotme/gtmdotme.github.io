@@ -65,6 +65,14 @@ Computational Linguistics and Intelligent Text Processing ([CICLing 2019](https:
 Patents
 ------
 
+📘 **Providing Data Collaboration via a Distributed Secure Collaboration Framework** \
+  <sub><span style="color:#868686e8">Filed to USPTO in May, 2023</span></sub> \
+  <sub>Inventors --- *Sunav Choudhary, Subrata Mitra, Sanjay Sukumaran, Priyanshu Yadav, Munish Gupta, Jashn Arora, Iftikhar Ahamath Burhanuddin, **Gautam Choudhary**, Atharv Tyaqi* </sub>
+  
+📘 **Anomalous Data Identification for Tabular Data** \
+  <sub><span style="color:#868686e8">Filed to USPTO in Mar, 2023</span></sub> \
+  <sub>Inventors --- *Ramasuri Narayanam, Manisha Padala, Atharv Tyagi, Shiv Kumar Saini, Keshav Vadrevu, **Gautam Choudhary**, Koyel Mukherjee* </sub>
+  
 📘 **Generating Node Embeddings for Multiple Roles** \
   <sub><span style="color:#868686e8">Filed to USPTO in Jun, 2022</span></sub> \
   <sub>Inventors --- *Ryan Rossi, Iftikhar Ahamath Burhanuddin, **Gautam Choudhary**, Fan Du, Eunyee Koh* </sub>

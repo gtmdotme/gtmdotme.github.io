@@ -21,12 +21,13 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
 
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Oct'23</span> ] 📄 Our work on [*PersonaSAGE*](https://arxiv.org/pdf/2212.13709.pdf) got accepted at IEEE BigData 2023 (my first long paper!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).  
-[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on *Dynamic Account Scoring* got accepted as paper at AdKDD 2022.  
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on [*Dynamic Account Scoring*](http://papers.adkdd.org/2022/papers/adkdd22-sinha-b2b.pdf) got accepted as paper at AdKDD 2022 (my first workshop paper!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Feb'22</span> ] 🎉 Got promoted to Research Associate 2 at Adobe Research.  
-[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on *Actionable Review Comments* got accepted as paper at WISE 2021.  
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'21</span> ] 📄 Our work on [*Actionable Review Comments*](https://arxiv.org/pdf/2210.00443.pdf) got accepted as paper at WISE 2021.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Apr'21</span> ] 🎥 Our project [*#AccountAce*](https://twitter.com/Adobe/status/1387445632881680385) on B2B marketing premiered at [Adobe Summit 2021](https://research.adobe.com/news/adobe-research-previews-innovative-technologies-at-summit-2021/).  
-[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Nov'19</span> ] 📄 Our paper based out of B.Tech. Project got accepted at DATE 2020.  
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Nov'19</span> ] 📄 Our [paper](https://gtmdotme.github.io/files/btp-thesis-report-2019.pdf) based out of B.Tech. Thesis Project got accepted at DATE 2020.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Oct'19</span> ] 🏆 Our B.Tech. Project awarded as Best Department Project.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'19</span> ] 🧑‍💻 Started my research journey at [Adobe Research](https://research.adobe.com/) (my first job!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">May'19</span> ] 🧑‍🎓 Graduated from [Indian Institue of Technology, Roorkee](https://iitr.ac.in/).  
@@ -36,12 +37,16 @@ News
 
 Research Interests
 ------
-Artificial Intelligence and Machine Learning, Data Mining, User Modeling and Personalisation and Graph Based Learning.
+Artificial Intelligence and Machine Learning, Data Mining, User Modeling and Personalisation and Graph Machine Learning.
 
 
 
 Publications
 ------
+
+📙 **PersonaSAGE: A Multi-Persona Graph Neural Network** [<i class="fas fa-file"></i>](https://arxiv.org/pdf/2212.13709.pdf) Paper \
+  <sub><span style="color:#868686e8">International Conference on Big Data ([IEEE BigData 2023](https://bigdataieee.org/BigData2023/index.html))</span></sub> \
+  <sub>Authors --- ***Gautam Choudhary**, Iftikhar Ahamath Burhanuddin, Eunyee Koh, Fan Du and Ryan A. Rossi* </sub>
 
 📙 **B2B Advertising: Joint Dynamic Scoring of Account and Users** [<i class="fas fa-file"></i>](http://papers.adkdd.org/2022/papers/adkdd22-sinha-b2b.pdf) Paper, [<i class="fas fa-video"></i>](https://youtu.be/eQubyYIZg70) Video \
   <sub><span style="color:#868686e8">KDD Workshop ([AdKDD 2022](https://www.adkdd.org/2022-papers-and-talks))</span></sub> \

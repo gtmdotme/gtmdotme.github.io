@@ -21,6 +21,7 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
 
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Dec'23</span> ] 🏆 Our reproducibility work on [*Federated Learning*](https://dagshub.com/peng-ju/Power-of-Choice) secured 1st Prize at ML@Purdue x DagsHub Hackathon.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Oct'23</span> ] 📄 Our work on [*PersonaSAGE*](https://arxiv.org/pdf/2212.13709.pdf) got accepted at IEEE BigData 2023 (my first long paper!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Jun'22</span> ] 📄 Our work on [*Dynamic Account Scoring*](http://papers.adkdd.org/2022/papers/adkdd22-sinha-b2b.pdf) got accepted as paper at AdKDD 2022 (my first workshop paper!).  

@@ -10,7 +10,7 @@ redirect_from:
 
 > "Explore.<span style="font-style: normal">🏔</span> Dream.<span style="font-style: normal">💭</span> Discover.<span style="font-style: normal">💡</span>" ― Mark Twain
 
-I am a Master's student at Purdue University, with majors in Computer Science. Prior to that, I worked as a Research Associate 2 at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee majoring in Computer Science and Engineering in 2019. Before joining as a full time, I interned at Adobe Research during summer 2018 where I worked in the domain of Natural Language, focused on assisting document understanding. Later in my undergraduate thesis, I, along with my team, explored an interdisciplinary domain of MicroFluidics and developed a novel algorithm for resource allocation.
+I recently graduated with a Master's degree and started my PhD journey at Purdue University with a major in Computer Science. Prior to that, I worked as a Research Associate 2 at Adobe Research as part of the Data-Driven Systems, Insights and Experiences Group. I graduated from the Indian Institute of Technology, Roorkee, majoring in Computer Science and Engineering in 2019. Before joining a full-time, I interned at Adobe Research during the summer of 2018, where I worked in the domain of Natural Language, focused on assisting document understanding. Later in my undergraduate thesis, I, along with my team, explored an interdisciplinary domain of MicroFluidics and developed a novel algorithm for resource allocation.
 
 My research interests are at the intersection of modeling user behavior, data mining, and data analysis in the domain of Machine Learning. For instance, applying deep learning techniques to score user journeys in the domain of marketing science. I am also exploring the domain of graph-based neural networks for modeling user behavior.
 
@@ -21,6 +21,7 @@ I am an avid traveler 🏔 and love clicking photographs 📷. Feel free to drop
 News
 ------
 
+[ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">May'24</span> ] 🎓 Graduated with MS in CS, and starting PhD journey now!  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Dec'23</span> ] 🏆 Our reproducibility work on [*Federated Learning*](https://dagshub.com/peng-ju/Power-of-Choice) secured 1st Prize at ML@Purdue x DagsHub Hackathon.  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Oct'23</span> ] 📄 Our work on [*PersonaSAGE*](https://arxiv.org/pdf/2212.13709.pdf) got accepted at IEEE BigData 2023 (my first long paper!).  
 [ <span style="font-family:'Lucida Console', monospace;color: #cb4b16;">Aug'22</span> ] 🧑‍🏫 Started my grad school journey at [Purdue University](https://purdue.edu/) (Master's in CS).  
@@ -107,7 +108,8 @@ Patents
 
 Reviewer
 ------
-📚 Conference Sub-Reviewer (CoDS-COMAD 2020)
+📚 Conference Reviewer (ArtInHCI 2024)  
+📚 Conference Sub-Reviewer (CoDS-COMAD 2020)  
 
 
 
